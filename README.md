@@ -2,6 +2,7 @@ Don't read Portuguese? [Read this page in English](https://github.com/JulioLima9
 # Projeto-2
 ## Descrição do Projeto
 Neste projeto eu tive que preparar um relatório para a divisão de empréstimos de um banco. Precisei descobrir se o estado civil de um cliente e o número de filhos têm impacto sobre a inadimplência de um empréstimo. O banco já tem alguns dados sobre a capacidade de crédito dos clientes.
+O relatório será considerado ao criar uma pontuação de crédito de um cliente em potencial. Uma pontuação de crédito é usada para avaliar a capacidade de um devedor em potencial de pagar seu empréstimo.
 
 ## Descrição de dados
 - `children` : o número de crianças na família
