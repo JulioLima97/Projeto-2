@@ -17,3 +17,5 @@ O relatório será considerado ao criar uma pontuação de crédito de um client
 - `debt` : se o cliente já deixou de pagar um empréstimo
 - `total_income` : renda mensal
 - `purpose` : motivo para fazer um empréstimo
+
+Nota: Este projeto foi desenvolvido com base na orientação que recebi para aprimorar meu raciocínio lógico enquanto aluno. Como resultado, mantive incluso todas as ordens solicitadas relacionadas à orientação para realização dos cálculos necessários.
