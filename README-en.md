@@ -15,3 +15,5 @@ In this project I had to prepare a report for the loan division of a bank. I nee
 - `debt`: if the customer has already failed to pay a loan
 - `total_income`: monthly income
 - `purpose`: reason for taking out a loan
+
+Note: This project was developed based on the guidance I received to improve my logical reasoning as a student. As a result, I kept all requested orders related to guidance on carrying out the necessary calculations.
